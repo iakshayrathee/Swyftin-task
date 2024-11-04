@@ -240,7 +240,7 @@ export default function Home() {
                   Agent - Nikhil
                 </span>
 
-                <span className="flex gap-1 mt-4 text-[12px] bg-[#E9E9ED] ml-[9rem] text-[#5e5d5d]  border-[#9bcdff] border-2 rounded-lg px-1 py-[0.5px]">
+                <span className="flex gap-1 mt-5 text-[12px] bg-[#E9E9ED] ml-[9rem] text-[#5e5d5d]  border-[#9bcdff] border-2 rounded-lg px-1 py-[0.5px]">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="16"
